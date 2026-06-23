@@ -1,0 +1,44 @@
+# Node
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.test
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Build output
+dist/
+build/
+.cache/
+.next/
+.nyc_output/
+.parcel-cache/
+
+# Coverage
+coverage/
+
+# OS files
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Packages
+*.tgz
+
+# Misc
+coverage/
